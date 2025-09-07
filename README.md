@@ -1,1 +1,1 @@
-# verificador_idade-js
+# Verificador de Idade, integrado com imagens.
